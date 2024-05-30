@@ -2,6 +2,7 @@
 
 ## Índice
 
+- [Descripción](#descripción)
 - [Funciones](#funciones)
 - [Instalación](#instalación)
 - [Créditos](#créditos)
